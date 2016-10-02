@@ -15,7 +15,9 @@ p {
 p a {
   text-decoration: underline;
 }
-h1,
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
 h2,
 h3,
 h4,
